@@ -38,7 +38,14 @@ Vehicle length contributes the least amount of random variance, followed by grou
 ### Analysis 
 It seems as though lot three exceeds the variance limit of 100 pounds per square inch with a variance of 170. This may be due to a handful of outliers; however, for safety reasons this lot does not meet design requirements. Lots one, two, as well as the aggregate of all three lots do meet the design requirements.
 
+## T-Tests on Suspension Coils
 
+### Data
+![Totalttest](https://github.com/shaneabbley/MechaCar_Statistical_Analysis/blob/main/Total_ttest.png)
+![ttest1](https://github.com/shaneabbley/MechaCar_Statistical_Analysis/blob/main/Lot1_ttest.png)
+![ttest2](https://github.com/shaneabbley/MechaCar_Statistical_Analysis/blob/main/Lot2_ttest.png)
+![ttest3](https://github.com/shaneabbley/MechaCar_Statistical_Analysis/blob/main/Lot3_ttest.png)
 
+#### This code is the output of calling the summarize() function on our suspension data to find the summary statistics.
 
 
