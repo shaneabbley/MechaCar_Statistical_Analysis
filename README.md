@@ -19,3 +19,26 @@
 ### Analysis 
 
 Vehicle length contributes the least amount of random variance, followed by ground clearance and the intercept. The slope is non zero because the p value is significantly smaller than our significane value of 0.05%. Due to the intercept being very statistically significant, we can confidently say this model does not accurately predict mpg. That is, there are other variables outside of the model contributing to the distribution of mpg.
+
+## Summary Statistics on Suspension Coils
+
+### Data
+![TotalSummary](https://github.com/shaneabbley/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
+
+#### This code is the output of calling the summarize() function on our suspension data to find the summary statistics.
+
+<br/>
+
+![LotSummary](https://github.com/shaneabbley/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
+
+#### This code is the output of calling the groupby function on the summary() function above.
+
+<br/>
+
+### Analysis 
+It seems as though lot three exceeds the variance limit of 100 pounds per square inch with a variance of 170. This may be due to a handful of outliers; however, for safety reasons this lot does not meet design requirements. Lots one, two, as well as the aggregate of all three lots do meet the design requirements.
+
+
+
+
+
