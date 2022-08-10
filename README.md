@@ -10,12 +10,11 @@
 
 <br/>
 <br/>
-<br/>
 
 ![LinearRegressionStatistics](https://github.com/shaneabbley/MechaCar_Statistical_Analysis/blob/main/LinearRegressionStatistics.png)
 
 #### This code is the output of calling the summary() function on our multiple linear regression.
-<br/>
+
 <br/>
 <br/>
 
