@@ -46,9 +46,9 @@ It seems as though lot three exceeds the variance limit of 100 pounds per square
 ![ttest2](https://github.com/shaneabbley/MechaCar_Statistical_Analysis/blob/main/Lot2_ttest.png)
 ![ttest3](https://github.com/shaneabbley/MechaCar_Statistical_Analysis/blob/main/Lot3_ttest.png)
 
-#### This code is the output of calling the ttest() function on our suspension data to determine if the sample mean is statistically different from the population mean of 1500. The code was ran on all PSI data as well as on PSI data by lot number.
+#### This code is the output of calling the t.test() function on our suspension data to determine if the sample mean is statistically different from the population mean of 1500. The code was ran on all PSI data as well as on PSI data by lot number.
 
 <br/>
 
 ### Analysis 
-
+All of the sample means are statistically similar to the population mean of 1,500 except for lot three. This is because the p value for lot three is below our significance value of 0.05; however, lots one, two, and the aggregate of all lots are above 0.05.
