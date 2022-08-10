@@ -6,7 +6,7 @@
 
 #### This code is the output of calling the lm() function on our data to predict mpg using a multiple linear regression.
 
-&nbsp  
+<br/>
 
 ![LinearRegressionStatistics](https://github.com/shaneabbley/MechaCar_Statistical_Analysis/blob/main/LinearRegressionStatistics.png)
 
