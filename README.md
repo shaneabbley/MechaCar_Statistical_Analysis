@@ -46,6 +46,9 @@ It seems as though lot three exceeds the variance limit of 100 pounds per square
 ![ttest2](https://github.com/shaneabbley/MechaCar_Statistical_Analysis/blob/main/Lot2_ttest.png)
 ![ttest3](https://github.com/shaneabbley/MechaCar_Statistical_Analysis/blob/main/Lot3_ttest.png)
 
-#### This code is the output of calling the summarize() function on our suspension data to find the summary statistics.
+#### This code is the output of calling the ttest() function on our suspension data to determine if the sample mean is statistically different from the population mean of 1500. The code was ran on all PSI data as well as on PSI data by lot number.
 
+<br/>
+
+### Analysis 
 
